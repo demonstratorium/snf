@@ -1,5 +1,5 @@
 {  "name"                       : "snf"
-,  "version"                    : "0.0.1"
+,  "version"                    : "0.0.2"
 ,  "description"                : "SHORT AND FAST server 2018"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
