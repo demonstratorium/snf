@@ -1,5 +1,5 @@
 {  "name"                       : "snf"
-,  "version"                    : "0.0.2"
+,  "version"                    : "0.0.12"
 ,  "description"                : "SHORT AND FAST server 2018"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
@@ -27,5 +27,6 @@
                                   , "backup_time"   : 60000
                                   , "build"         : "./"
                                   , "data"          : "./"
+                                  , "login"         : "hi snf MIT 0.0.12" 
                                   }
 }
