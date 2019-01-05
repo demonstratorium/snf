@@ -1,6 +1,6 @@
 {  "name"                       : "snf"
-,  "version"                    : "0.0.20"
-,  "description"                : "SHORT AND FAST server 2018 SWRQ"
+,  "version"                    : "0.0.22"
+,  "description"                : "SHORT AND FAST server 2019 SWRQ"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
                                   , "npm"  : "*"
@@ -27,6 +27,6 @@
                                   , "backup_time"   : 60000
                                   , "build"         : "./"
                                   , "data"          : "./"
-                                  , "login"         : "snf MIT 0.0.20 12751" 
+                                  , "login"         : "snf MIT 0.0.22 13266 buzz" 
                                   }
 }
