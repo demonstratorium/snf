@@ -1,5 +1,5 @@
 {  "name"                       : "snf"
-,  "version"                    : "0.0.24"
+,  "version"                    : "0.0.25"
 ,  "description"                : "SHORT AND FAST server 2019 SWRQ"
 ,  "main"                       : "server.js"
 ,  "engine"                     : { "node" : "*"
@@ -27,6 +27,6 @@
                                   , "backup_time"   : 60000
                                   , "build"         : "./"
                                   , "data"          : "./"
-                                  , "login"         : "snf MIT 0.0.24 13234 buzz" 
+                                  , "login"         : "snf MIT 0.0.25 13301 buzz webrtc" 
                                   }
 }
